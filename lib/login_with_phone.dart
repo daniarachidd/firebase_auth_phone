@@ -43,10 +43,10 @@ class _PhoneLoginState extends State<PhoneLogin> {
             ElevatedButton(
                 onPressed: () {
                   if(otpVisibility){
-                    //ToDo: verify otp
+                    //ToDo: signIn
                   }
                   else {
-                    //Todo: login with phone
+                    //Todo: verify
                   }
                 },
                 child: Text(otpVisibility ? "Verify" : "Login")),
