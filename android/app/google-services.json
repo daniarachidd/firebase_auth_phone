@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810578195051",
+    "project_id": "fir-authphone-e6a60",
+    "storage_bucket": "fir-authphone-e6a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810578195051:android:1dcd684a3e1246e090f72e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810578195051-2bhpn61viurc9mncltfkqbns9ami5ntt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_auth_phone",
+            "certificate_hash": "5a915b2e113a5e1d9df683e603947a14d6e79f20"
+          }
+        },
+        {
+          "client_id": "810578195051-f721hhgpcrf2ac4v0vnesv7l5e6lhidb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQ_nulh2a_a49GxU4lkxNCoNZ8skI4pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810578195051-f721hhgpcrf2ac4v0vnesv7l5e6lhidb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
