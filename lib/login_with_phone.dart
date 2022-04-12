@@ -12,7 +12,7 @@ class PhoneLogin extends StatefulWidget {
 }
 
 class _PhoneLoginState extends State<PhoneLogin> {
-  TextEditingController phoneController = TextEditingController(text: '+905378517278');
+  TextEditingController phoneController = TextEditingController();
   TextEditingController otpController = TextEditingController();
   bool otpVisibility = false;
   String verificationID = "";
